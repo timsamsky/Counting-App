@@ -1,2 +1,2 @@
-# Counting-App
+# counting-app
 Counting app by clicks
